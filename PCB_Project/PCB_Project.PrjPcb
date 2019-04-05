@@ -30,7 +30,9 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=C4C1CEE7-DC02-468A-A23F-669DDD7B467E
+VaultGUID=883bf13e-bb19-4470-a747-a27edb2104ba
+ReleaseVaultName=Peter Workspace
 Template=C:\Users\Public\Documents\Altium\ADDev\Templates\AT long bus (13.3 x 4.5 inches).PrjPCB
 IncludeDesignInRelease=0
 
